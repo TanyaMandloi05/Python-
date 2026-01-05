@@ -1,0 +1,4 @@
+this is a sample file 
+to store some words
+for python actively
+this is to be solved by us 
