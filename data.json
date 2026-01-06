@@ -1,0 +1,10 @@
+{
+    "customer": {
+        "membership": "Prime",
+        "name": "Amit"
+    },
+    "isOldCustomer": true,
+    "orderId": 5421,
+    "price": 799,
+    "product": "Wireless Mouse"
+}
