@@ -1,0 +1,6 @@
+Program started
+User input received
+File opened successfully
+Data written to file
+File closed
+Program run successfully
